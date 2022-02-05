@@ -6924,3 +6924,7 @@ blockquote p {
   border-color: #eeeeee;
   color: #333333;
 }
+
+.tp-bgimg  {
+    opacity: 0.6 !important;
+}
